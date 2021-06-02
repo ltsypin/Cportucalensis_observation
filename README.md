@@ -9,4 +9,6 @@ Computed using:
 - pandas 1.1.1
 - bokeh 2.2.0
 - jupyterlab 2.2.6
+- holoviews 1.13.3
+- colorcet 2.0.2
 
